@@ -171,7 +171,7 @@ This time, we're going to put this in the bottom of our `index.html` like it was
 
 Inside that `<script id="comment-template">` tag we just have _mostly_ regular HTML! The only difference is, since we're inside a `script` tag, we also can use the interpolation delimiters from lodash to mark where our dynamic data is.
 
-Okay, we've made a significant change here, so surely there's a lot of work require to wire this up, right?
+Okay, we've made a significant change here, so surely there's a lot of work required to wire this up, right?
 
 ```js
 // index.js
