@@ -17,7 +17,7 @@ it's real long</div><p>" + someDynamicValue + "</p><p>" + someOtherValue
 + "</p>";
 ```
 
-The better way is to use a _template_ that provides a way to use dynamically add data on a set HTML structure, preventing us from having to type out these monster strings of data and markup.
+The better way is to use a _template_ that provides a way to dynamically add data on a set HTML structure, preventing us from having to type out these monster strings of data and markup.
 
 We could build out our own template for each section of our blog, creating a new function for each part, and that would work, but there are tools out there to make this task nice and easy for us.
 
